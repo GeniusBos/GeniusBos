@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeniusBos
 - 👀 I’m interested in cyber security 
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on any platform which can enlighten me
+- 💞️ I’m looking to collaborate on any platform or project which i can participate on
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Devilish Hacker 😈👽
